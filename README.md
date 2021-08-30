@@ -1,2 +1,2 @@
-# crwn
+# CRWN
 Front-end & Back-end
