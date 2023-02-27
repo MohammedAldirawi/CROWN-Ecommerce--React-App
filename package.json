@@ -1,5 +1,5 @@
 {
-    "name": "crawn-clothing-server",
+    "name": "crwn-clothing-server",
     "version": "1.1.0",
     "engines": {
         "node": "16.4.0",
