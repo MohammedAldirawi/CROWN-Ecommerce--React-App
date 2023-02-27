@@ -1,6 +1,6 @@
 # Create E-Commerce using React & Component-styled with Redux;
 
-Live: https://moh-crown-clothing.herokuapp.com
+Live: https://crown-mo.netlify.app/
 
   - Install React using 
 	```
